@@ -22,3 +22,8 @@
 | [HW5.pdf](./homeworks_solutions/HW5.pdf) | [S5.pdf](./homeworks_solutions/S5.pdf) |
 | [HW6.pdf](./homeworks_solutions/HW6.pdf) | [S6.pdf](./homeworks_solutions/S6.pdf) |
 | [HW7.pdf](./homeworks_solutions/HW7.pdf) | [S7.pdf](./homeworks_solutions/S7.pdf) |
+
+## Solutions to exams
+| Final |
+| :---: |
+| [FinalSol.pdf](./final/FinalSol.pdf) |
