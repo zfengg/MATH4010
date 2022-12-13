@@ -1,6 +1,6 @@
 # MATH4010
 
-[Coursepage](https://www.math.cuhk.edu.hk/course/2122/math4010)
+[Coursepage](https://www.math.cuhk.edu.hk/course/2223/math4010)
 
 ## Tutorials
 |          Tutorials           |
@@ -22,8 +22,15 @@
 | [HW5.pdf](./homeworks_solutions/HW5.pdf) | [S5.pdf](./homeworks_solutions/S5.pdf) |
 | [HW6.pdf](./homeworks_solutions/HW6.pdf) | [S6.pdf](./homeworks_solutions/S6.pdf) |
 | [HW7.pdf](./homeworks_solutions/HW7.pdf) | [S7.pdf](./homeworks_solutions/S7.pdf) |
+| [HW8.pdf](./homeworks_solutions/HW8.pdf) | [S8.pdf](./homeworks_solutions/S8.pdf) |
+| [HW9.pdf](./homeworks_solutions/HW9.pdf) | [S9.pdf](./homeworks_solutions/S9.pdf) |
 
-## Solutions to exams
-| Final |
-| :---: |
-| [FinalSol.pdf](./final/FinalSol.pdf) |
+## Solutions of Test & Exam
+|              Solution of Test               |              Solution of Exam               |
+| :-----------------------------------------: | :-----------------------------------------: |
+| [SolnTest4010.pdf](./Test/SolnTest4010.pdf) | [SolnExam4010.pdf](./Exam/SolnExam4010.pdf) |
+
+## Solutions of past exams
+|               Solution of past exams               |
+| :------------------------------------------------: |
+| [MATH4010Sol2Finals.pdf](./MATH4010Sol2Finals.pdf) |
