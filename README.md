@@ -1,4 +1,4 @@
-# MATH4010
+# MATH4010 Functional Analysis
 
 [Coursepage](https://www.math.cuhk.edu.hk/course/2223/math4010)
 
